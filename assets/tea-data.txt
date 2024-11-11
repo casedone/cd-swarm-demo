@@ -1,0 +1,20 @@
+# Product Master: Specialty Tea Leaves
+
+## 1. Dragon Well (Longjing) Green Tea
+- **Origin**: Hangzhou, Zhejiang Province, China  
+- **Taste**: Sweet, nutty, and vegetal with a smooth, delicate finish. Noted for a chestnut-like aroma and a subtle freshness. The flavor profile is complex yet balanced, providing a refreshing experience that is both light and aromatic. Dragon Well is highly prized for its quality and is known for its long, flat leaves that impart a distinct character to the tea.  
+- **Recommended Brewing**: 80°C (176°F) water, steep for 2-3 minutes. Ideal in a glass teapot or gaiwan. For the best experience, use freshly filtered water and allow the leaves to open up fully during brewing. The tea can be steeped multiple times, with each infusion bringing out new flavors and nuances.  
+- **Price**: $35 per 250g. This tea is considered a premium choice for those looking to explore high-quality green teas, offering exceptional value for its delicate yet vibrant flavors.
+
+## 2. Gyokuro Japanese Green Tea
+- **Origin**: Uji, Kyoto Prefecture, Japan  
+- **Taste**: Sweet umami flavor, with a delicate seaweed note and creamy texture. Renowned for its smoothness and complexity. The tea is shade-grown, which enhances its natural sweetness and umami, giving it a rich, full-bodied flavor unlike any other green tea. Gyokuro is often described as having an almost savory quality, with a deep, satisfying taste that lingers on the palate.  
+- **Recommended Brewing**: 60°C (140°F) water, steep for 1.5-2 minutes. Use a kyusu teapot for best results. The lower brewing temperature helps to preserve the tea's delicate umami and sweetness. For a more intense flavor, consider using a higher leaf-to-water ratio, but ensure the temperature remains low to avoid bitterness.  
+- **Price**: $65 per 250g. As one of the finest Japanese green teas, Gyokuro is a luxurious choice, perfect for those seeking an exquisite and authentic tea experience.
+
+## 3. Darjeeling First Flush Black Tea
+- **Origin**: Darjeeling, West Bengal, India  
+- **Taste**: Bright, floral with a muscatel grape note and a light, golden liquor. Often referred to as the "Champagne of Teas" for its elegant flavor. The first flush is known for its freshness, capturing the essence of the early spring harvest with its lively and fragrant character. The tea leaves are delicately processed to retain their natural floral notes, resulting in a cup that is both aromatic and brisk.  
+- **Recommended Brewing**: 90°C (194°F) water, steep for 3-4 minutes. Best brewed in a ceramic or porcelain teapot. The higher temperature helps bring out the full range of flavors, from the floral notes to the distinctive muscatel undertones. For a more refined taste, avoid over-steeping, and enjoy the tea without milk or sugar to appreciate its natural complexity.  
+- **Price**: $45 per 250g. Darjeeling First Flush is an ideal choice for tea enthusiasts who appreciate a light yet flavorful black tea, offering a sophisticated and refreshing drinking experience.
+
